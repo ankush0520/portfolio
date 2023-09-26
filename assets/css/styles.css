@@ -328,11 +328,13 @@ img {
 }
 
 .skills__js {
-  width: 65%;
+  width: 80%;
 }
-
-.skills__ux {
-  width: 85%;
+.skills__angular{
+  width: 75%;
+}
+.skills__react {
+  width: 65%;
 }
 
 .skills__img {
